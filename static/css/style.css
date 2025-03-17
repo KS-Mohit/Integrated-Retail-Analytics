@@ -1,0 +1,30 @@
+.stApp {
+    background-color: transparent;
+}
+
+.dataframe {
+    border: none !important;
+}
+
+.dataframe td, .dataframe th {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+div[data-testid="stHorizontalBlock"] {
+    background-color: transparent !important;
+}
+
+.custom-metric-container {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #f8f9fa;
+    margin: 0.5rem 0;
+}
+
+.chart-container {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border: 1px solid #e9ecef;
+    border-radius: 0.5rem;
+} 

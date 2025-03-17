@@ -1,0 +1,20 @@
+model_params:
+  lstm:
+    sequence_length: 30
+    n_features: 1
+    epochs: 50
+    batch_size: 32
+
+visualization:
+  plot_size:
+    width: 12
+    height: 6
+  colors:
+    primary: "#1f77b4"
+    secondary: "#ff7f0e"
+    accent: "#2ca02c"
+
+data_processing:
+  min_support: 0.02
+  confidence_threshold: 0.5
+  num_clusters: 4 
