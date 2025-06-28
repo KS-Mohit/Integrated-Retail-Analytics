@@ -4,7 +4,7 @@
 **Shoplytics** is a data analytics platform designed to help shop owners gain insights from purchase data. The platform uses machine learning algorithms to analyze shopping patterns and optimize inventory management.
 
 ## 🚀 Features
-- **Market Basket Analysis** using Apriori, FP-Growth, and Eclat
+- **Market Basket Analysis** using Apriori, FP-Growth
 - **Predictive Analytics** with XGBoost
 - **Real-time Data Visualization** using Streamlit
 - **User-Friendly Interface** for shop owners
@@ -13,7 +13,7 @@
 ## 🛠️ Technologies Used
 - **Frontend**: Streamlit (Python-based UI framework)
 - **Backend**: Python (Pandas, NumPy, Scikit-learn)
-- **Algorithms**: Apriori, FP-Growth, Eclat, XGBoost
+- **Algorithms**: Apriori, FP-Growth, XGBoost
 - **Data Storage**: CSV/SQL Database (for storing transaction data)
 
 ## 📂 Folder Structure
